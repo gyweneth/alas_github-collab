@@ -5,5 +5,6 @@
 ## Contributors
 - Master Maintainer Gyweneth
 - Contributor Matundan, Jaylord S.
-- Contributor B
+- Contributor Cañete, Jexter M.
 - Contributor C
+
