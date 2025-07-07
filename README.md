@@ -3,8 +3,8 @@
 # TeamPlay - A Prototype
 
 ## Contributors
-- Master Maintainer Gyweneth
+- Master Maintainer Jumarang, Gyweneth A.
 - Contributor Matundan, Jaylord S.
 - Contributor Cañete, Jexter M.
-- Contributor C
+- Contributor Custodio, Thrisha G.
 
